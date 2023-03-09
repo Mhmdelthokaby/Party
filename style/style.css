@@ -1,0 +1,88 @@
+
+#one{
+    background-image: url(../image/events-heavenly-header.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 90vh;
+}
+.layer{
+    height: 100%;
+    background-color: rgba(214, 46, 51, 0.6);
+}
+#one #list{
+    z-index: 1;
+    position: fixed;
+    width: 0;
+    /* padding: 1.5rem; */
+    /* width: 250px; */
+    height: 100%;
+    background-color: #414658;
+}
+.listB{
+    left: 200px;
+}
+.hov:hover{
+    color: rgb(214, 46, 51) !important;
+}
+.main{
+    width: 100%;
+    /* margin-left: 250px; */
+}
+
+/* section 2 */
+#two h3{
+    margin: 0;
+    background-color: rgba(214, 46, 51, 0.6);
+}
+#two .signer{
+    padding: 10px;
+    margin: 0;
+    color: #333;
+    background-color: #ccc;
+}
+#Singer2, #Singer3 ,#Singer4{
+    display: none;
+}
+
+/*  */
+#three{
+    background-image: url(../image/invitation-2508607__340.jpg);
+    background-size: cover;
+    background-position: center center;
+    
+
+}
+#three div div div div div{ 
+    border: 1px solid #fff;
+}
+
+/*  */
+
+#four{
+    color: #777;
+}
+#four h2{
+    color: #444;
+}
+#four h3{
+    color: #444;
+}
+.socialIcon i{
+    border: 1px solid #777;
+}
+.redh{
+    color: rgb(214, 46, 51);
+}
+.socialIcon i:hover{
+    background-color: rgb(214, 46, 51);
+    color: #fff;
+    border-color:rgb(214, 46, 51) ;
+}
+input{
+    color: #555;
+}
+#four button{
+    background-color: rgb(214, 46, 51);
+    border: none;
+    color: #FFF;
+}
